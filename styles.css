@@ -195,8 +195,8 @@ body {
 }
 
 .hero-badge {
-  position: absolute;
-  top: 1.5rem;
+  position: relative;
+  top: .5rem;
   right: 1.5rem;
   background: #f97316;
   color: #fff;
@@ -810,6 +810,7 @@ body {
     width: 50%;
   }
 }
+
 
 
 
