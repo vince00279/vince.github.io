@@ -51,7 +51,7 @@ import {HousingService} from '../housing';
           </div>
           <div class="hero-badge">
             <span>Clothing Shop</span>
-            <strong>Gabaldon Campus</strong>
+            <strong>Gabaldon Campusss</strong>
           </div>
         </div>
       </section>
@@ -159,3 +159,4 @@ export class Home {
     section?.scrollIntoView({behavior: 'smooth', block: 'start'});
   }
 }
+
